@@ -19,15 +19,15 @@ const App = () => {
                             element={<Homepage />} />
                         
                         <Route  path='/exchanges'
-                            element={<Exchanges/>} />
-                        <Route  path='/cryptocurrency'
-                            element={<Cryptocurrencies/>}/>
+                            element={<Exchanges />} />
+                        <Route  path='/cryptocurrencies'
+                            element={<Cryptocurrencies />}/>
                         
                         <Route  path='/crypto/:coinId'
-                            element={<CryptoDetails/>} />
+                            element={<CryptoDetails />} />
                         
                         <Route  path='/news'
-                            element={<News/>} />
+                            element={<News />} />
                         
                     </Routes>
 
