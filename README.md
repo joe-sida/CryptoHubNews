@@ -1,4 +1,4 @@
-[CryptoHubNews](http://cryptonewswireexchange.great-site.net/)
+[CryptoHubNews](https://cryptohubnews.netlify.app/)
 
 # Getting Started with Create React App
 
